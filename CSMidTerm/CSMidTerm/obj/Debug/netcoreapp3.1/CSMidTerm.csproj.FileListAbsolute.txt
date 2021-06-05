@@ -1,0 +1,12 @@
+/Users/salom11/Desktop/CSMidTerm/CSMidTerm/CSMidTerm/obj/Debug/netcoreapp3.1/CSMidTerm.csprojAssemblyReference.cache
+/Users/salom11/Desktop/CSMidTerm/CSMidTerm/CSMidTerm/obj/Debug/netcoreapp3.1/CSMidTerm.AssemblyInfoInputs.cache
+/Users/salom11/Desktop/CSMidTerm/CSMidTerm/CSMidTerm/obj/Debug/netcoreapp3.1/CSMidTerm.AssemblyInfo.cs
+/Users/salom11/Desktop/CSMidTerm/CSMidTerm/CSMidTerm/obj/Debug/netcoreapp3.1/CSMidTerm.csproj.CoreCompileInputs.cache
+/Users/salom11/Desktop/CSMidTerm/CSMidTerm/CSMidTerm/bin/Debug/netcoreapp3.1/CSMidTerm.deps.json
+/Users/salom11/Desktop/CSMidTerm/CSMidTerm/CSMidTerm/bin/Debug/netcoreapp3.1/CSMidTerm.runtimeconfig.json
+/Users/salom11/Desktop/CSMidTerm/CSMidTerm/CSMidTerm/bin/Debug/netcoreapp3.1/CSMidTerm.runtimeconfig.dev.json
+/Users/salom11/Desktop/CSMidTerm/CSMidTerm/CSMidTerm/bin/Debug/netcoreapp3.1/CSMidTerm.dll
+/Users/salom11/Desktop/CSMidTerm/CSMidTerm/CSMidTerm/bin/Debug/netcoreapp3.1/CSMidTerm.pdb
+/Users/salom11/Desktop/CSMidTerm/CSMidTerm/CSMidTerm/obj/Debug/netcoreapp3.1/CSMidTerm.dll
+/Users/salom11/Desktop/CSMidTerm/CSMidTerm/CSMidTerm/obj/Debug/netcoreapp3.1/CSMidTerm.pdb
+/Users/salom11/Desktop/CSMidTerm/CSMidTerm/CSMidTerm/obj/Debug/netcoreapp3.1/CSMidTerm.genruntimeconfig.cache
