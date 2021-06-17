@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Midterm
 {
@@ -70,6 +71,10 @@ namespace Midterm
                         break;
                 }
             }
+
+            userList.Where(user => user.UserName == "Esteban");
+            commentList.Where(user => user.TheComment == "Hello");
+
         }
 
         public class User
